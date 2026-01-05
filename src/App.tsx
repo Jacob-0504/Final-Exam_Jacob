@@ -12,7 +12,7 @@ import GroovePlayer2 from './pages/GroovePlayer2/GroovePlayer2';
 
 function App() {
   return (
-    <BrowserRouter basename="/">
+    <BrowserRouter basename="Final-Exam_Jacob">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Homepage />} />
